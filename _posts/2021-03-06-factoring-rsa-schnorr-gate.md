@@ -69,7 +69,7 @@ Schnorr의 알고리즘으로는 주장하고 있는 만큼 충분한 factor rel
 _written by Taechan Kim_
 
 
-<a name="footnote_1"><font size="2">1</font></a>: <font size = "2">암호와 관련된 preprint를 공유하는 논문 사이트로 타 분야의 [arxiv][2]와 비슷한 사이트임.</font>
+<a name="footnote_1"><font size="2">1</font></a>: <font size = "2">암호와 관련된 preprint를 공유하는 논문 사이트로 arxiv.org와 비슷한 사이트임.</font>
 
 
 
