@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taechan-kim.github.io/sitemap.xml
