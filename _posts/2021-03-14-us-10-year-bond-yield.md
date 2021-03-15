@@ -26,51 +26,41 @@ categories:
 더불어 다수의 전문가들은 국채금리가 앞으로 더 상승할 것으로 전망하고 있다.
 ([참고 기사][4])
 
-{% capture fig_img1 %}
-![bond]({{ '/assets/images/2021-03-14-us-10-year-bond-yield-period-1y.png' | relative_url }})
-{% endcapture %}
 
 <figure>
-  {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
+   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-us-10-year-bond-yield-period-1y.png" | relative_url }}' alt='relative'>
   <figcaption> 미 10년 국채금리 (2021년 3월 14일 기준 1년 기간).  Images from investing.com.</figcaption>
 </figure>
+
 
 
 ## 주식시장
 
 미 국채 금리 인상으로 인하여 국내 주식시장 또한 영향을 받는 모습이다.
 
-{% capture fig_img2 %}
-![kospi]({{ '/assets/images/2021-03-14-kospi-and-samsung-and-kb-compare.png' | relative_url }})
-{% endcapture %}
 
 <figure>
-  {{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
+   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-kospi-and-samsung-and-kb-compare.png" | relative_url }}' alt='relative'>
   <figcaption> KOSPI, 삼성전자 및 KB금융 비교 (2021년 3월 14일 기준).  Images from finance.naver.com.</figcaption>
 </figure>
 
 
-{% capture fig_img3 %}
-![kb]({{ '/assets/images/2021-03-14-kb-stock-price-3-month.png' | relative_url }})
-{% endcapture %}
 
 <figure>
-  {{ fig_img3 | markdownify | remove: "<p>" | remove: "</p>" }}
+   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-kb-stock-price-3-month.png" | relative_url }}' alt='relative'>
   <figcaption> KB 금융 주가 (2021년 3월 14일 기준, 3개월).  Images from finance.naver.com.</figcaption>
 </figure>
+
 
 ## 환율
 
 USD/KRW 환율은 올 초 1080원대에서 1130~1140원대까지 상승.
 
-{% capture fig_img4 %}
-![usdkrw]({{ '/assets/images/2021-03-14-us-krw-exchange-rate-period-3m.png' | relative_url }})
-{% endcapture %}
-
 <figure>
-  {{ fig_img4 | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> USD/KRW 환율 (2021년 3월 14일 기준, 3개월).  Images from finance.naver.com. </figcaption>
+   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-us-krw-exchange-rate-period-3m.png" | relative_url }}' alt='relative'>
+   <figcaption> USD/KRW 환율 (2021년 3월 14일 기준, 3개월).  Images from finance.naver.com. </figcaption>
 </figure>
+
 
 ## 비트코인
 
@@ -78,13 +68,10 @@ USD/KRW 환율은 올 초 1080원대에서 1130~1140원대까지 상승.
 (2020년 여름 1천초중반 -> 2021년 1월 말 3천후반 -> 2021년 2월 중순 6천초반 -> 2021년2월 말 5천초반-> 현재 6천 후반)
 관련기사: [대체 뭐냐, 넌…7000만원도 뚫은 비트코인, 설명조차 불가][6] (출처: 국민일보)
 
-{% capture fig_img5 %}
-![bitcoin]({{ '/assets/images/2021-03-14-bitcoin-price-period-1m.png' | relative_url }})
-{% endcapture %}
 
 <figure>
-  {{ fig_img5 | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> 비트코인 가격 (2021년 3월 14일 기준, 1개월).  Images from google.com.</figcaption>
+   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-bitcoin-price-period-1m.png" | relative_url }}' alt='relative'>
+   <figcaption> 비트코인 가격 (2021년 3월 14일 기준, 1개월).  Images from google.com.</figcaption>
 </figure>
 
 
