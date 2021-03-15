@@ -28,7 +28,7 @@ categories:
 
 
 <figure>
-   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-us-10-year-bond-yield-period-1y.png" | relative_url }}' alt='relative'>
+  <img width="510" alt="2021-03-14-us-10-year-bond-yield-period-1y" src="https://user-images.githubusercontent.com/41352749/111174176-91ce7400-85ea-11eb-8274-64fbff979cd4.PNG">
   <figcaption> 미 10년 국채금리 (2021년 3월 14일 기준 1년 기간).  Images from investing.com.</figcaption>
 </figure>
 
@@ -40,28 +40,22 @@ categories:
 
 
 <figure>
-   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-kospi-and-samsung-and-kb-compare.png" | relative_url }}' alt='relative'>
+  <img width="478" alt="2021-03-14-kospi-and-samsung-and-kb-compare" src="https://user-images.githubusercontent.com/41352749/111174354-b591ba00-85ea-11eb-820f-09ea01a81d46.PNG">
   <figcaption> KOSPI, 삼성전자 및 KB금융 비교 (2021년 3월 14일 기준).  Images from finance.naver.com.</figcaption>
 </figure>
 
 
-
 <figure>
-   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-kb-stock-price-3-month.png" | relative_url }}' alt='relative'>
+   <img width="730" alt="2021-03-14-kb-stock-price-3-month" src="https://user-images.githubusercontent.com/41352749/111173086-b8d87600-85e9-11eb-865c-2f0739290442.PNG">
   <figcaption> KB 금융 주가 (2021년 3월 14일 기준, 3개월).  Images from finance.naver.com.</figcaption>
 </figure>
-
-
-test3
-<img width="730" alt="2021-03-14-kb-stock-price-3-month" src="https://user-images.githubusercontent.com/41352749/111173086-b8d87600-85e9-11eb-865c-2f0739290442.PNG">
-
 
 ## 환율
 
 USD/KRW 환율은 올 초 1080원대에서 1130~1140원대까지 상승.
 
 <figure>
-   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-us-krw-exchange-rate-period-3m.png" | relative_url }}' alt='relative'>
+   <img width="550" alt="2021-03-14-us-krw-exchange-rate-period-3m" src="https://user-images.githubusercontent.com/41352749/111174499-d22df200-85ea-11eb-8bd1-13d51e95cef2.PNG">
    <figcaption> USD/KRW 환율 (2021년 3월 14일 기준, 3개월).  Images from finance.naver.com. </figcaption>
 </figure>
 
@@ -72,9 +66,8 @@ USD/KRW 환율은 올 초 1080원대에서 1130~1140원대까지 상승.
 (2020년 여름 1천초중반 -> 2021년 1월 말 3천후반 -> 2021년 2월 중순 6천초반 -> 2021년2월 말 5천초반-> 현재 6천 후반)
 관련기사: [대체 뭐냐, 넌…7000만원도 뚫은 비트코인, 설명조차 불가][6] (출처: 국민일보)
 
-TEST2
 <figure>
-   <img data-action="zoom" src='{{ "assets/images/2021-03-14-bitcoin-price-period-1m.png" | relative_url }}' alt='relative'>
+   <img width="520" alt="2021-03-14-bitcoin-price-period-1m" src="https://user-images.githubusercontent.com/41352749/111174627-ed006680-85ea-11eb-816e-98f78cfd7d7b.PNG">
    <figcaption> 비트코인 가격 (2021년 3월 14일 기준, 1개월).  Images from google.com.</figcaption>
 </figure>
 
