@@ -70,7 +70,7 @@ USD/KRW 환율은 올 초 1080원대에서 1130~1140원대까지 상승.
 
 
 <figure>
-   <img data-action="zoom" src='{{ "/assets/images/2021-03-14-bitcoin-price-period-1m.png" | relative_url }}' alt='relative'>
+   <img data-action="zoom" src='{{ "./assets/images/2021-03-14-bitcoin-price-period-1m.png" | relative_url }}' alt='relative'>
    <figcaption> 비트코인 가격 (2021년 3월 14일 기준, 1개월).  Images from google.com.</figcaption>
 </figure>
 
