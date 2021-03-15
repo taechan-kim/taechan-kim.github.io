@@ -52,6 +52,10 @@ categories:
 </figure>
 
 
+test3
+<img width="730" alt="2021-03-14-kb-stock-price-3-month" src="https://user-images.githubusercontent.com/41352749/111173086-b8d87600-85e9-11eb-865c-2f0739290442.PNG">
+
+
 ## 환율
 
 USD/KRW 환율은 올 초 1080원대에서 1130~1140원대까지 상승.
